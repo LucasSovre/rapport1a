@@ -1,0 +1,47 @@
+\documentclass[a4paper, 12pt]{report}
+\usepackage[utf8]{inputenc} 
+\usepackage{graphicx}
+\usepackage[document]{ragged2e}
+\usepackage{url}
+\usepackage{natbib}
+\usepackage{hyperref}
+\usepackage[toc]{glossaries}
+\usepackage{parskip}
+\usepackage[francais]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lscape}
+\usepackage{rotating}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=black,
+    citecolor=black,
+    urlcolor=blue,
+    pdftitle={Overleaf Example},
+    pdfpagemode=FullScreen,
+}
+
+\input{content/glossary.tex}
+
+\title{Premier rapport entreprise}
+\author{Lucas Sovre}
+\date{février 2022}
+
+\begin{document}
+
+\graphicspath{{/home/e92579/Documents/projects/rapport/1anne/images/}}
+\maketitle
+\justify
+\tableofcontents
+
+\input{content/content.tex}
+
+\printglossaries
+
+\bibliographystyle{plain}
+\bibliography{./bibliography.bib}
+
+\input{content/annexes.tex}
+
+\end{document}

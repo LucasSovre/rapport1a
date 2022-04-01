@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{IRSN_rep_schema}
+Fonctionement des reacteurs nucléaires.
+\newblock
+  \url{https://www.irsn.fr/FR/connaissances/Installations_nucleaires/Les-centrales-nucleaires/reacteurs-nucleaires-France/Pages/1-reacteurs-nucleaires-France-Fonctionnement.aspx},
+  Jan 2021.
+
+\bibitem{wikipedia_archi_info}
+Définition de l'architécture informatique.
+\newblock \url{https://fr.wikipedia.org/wiki/Architecture_(informatique)}, Jan
+  2021.
+
+\bibitem{IRSN_suretee}
+Les composants d’un réacteur en détail.
+\newblock
+  \url{https://www.irsn.fr/FR/connaissances/Installations_nucleaireLes-centrales-nucleaires/reacteurs-nucleaires-France/Page3-reacteurs-nucleaires-France-Description-detaillee.aspx},
+  Jan 2021.
+
+\bibitem{wikipedia_acid}
+Propriétés acid.
+\newblock \url{https://fr.wikipedia.org/wiki/Propri%C3%A9t%C3%A9s_ACID)}, Mars
+  2022.
+
+\bibitem{BDD_theses}
+Amal~AIT BRAHIM.
+\newblock {\em Approche dirigée par les modèles pour l'implantation debases
+  de données massives sur des SGBD NoSQL}.
+\newblock PhD thesis, EDMITT - Ecole Doctorale Mathématiques, Informatique
+  etTélécommunications de Toulouse, 2018.
+
+\bibitem{REST_theses}
+Roy~Thomas Fielding.
+\newblock {\em Architectural Styles and the Design of Network-based Software
+  Architectures}.
+\newblock PhD thesis, UNIVERSITY OF CALIFORNIA,IRVINE, 2000.
+
+\end{thebibliography}
