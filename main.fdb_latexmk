@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex main"] 1649102739 "main.aux" "main.bbl" "main" 1649102739
+["bibtex main"] 1649102739 "main.aux" "main.bbl" "main" 1649102885
   "./bibliography.bib" 1648208534 1588 d19f73e1147230cda2e836b049b62c59 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "main.aux" 1649102739 4468 a16c2d39faca855f9f4273073090b270 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1649102739 "/home/lucas/Documents/project/ingenios_it/rapport-1A/main.tex" "/home/lucas/Documents/project/ingenios_it/rapport-1A/main.pdf" "main" 1649102739
+["pdflatex"] 1649102739 "/home/lucas/Documents/project/ingenios_it/rapport-1A/main.tex" "/home/lucas/Documents/project/ingenios_it/rapport-1A/main.pdf" "main" 1649102885
   "/etc/texmf/web2c/texmf.cnf" 1648832076 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/lucas/Documents/project/ingenios_it/rapport-1A/main.aux" 1649102739 4468 a16c2d39faca855f9f4273073090b270 ""
-  "/home/lucas/Documents/project/ingenios_it/rapport-1A/main.tex" 1648831733 894 2957802b9f7338354a3f38175f227de3 ""
+  "/home/lucas/Documents/project/ingenios_it/rapport-1A/main.tex" 1649102885 894 2957802b9f7338354a3f38175f227de3 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1136768653 3584 402da0b29eafbad07963b1224b222f18 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm" 1136768653 3584 13049b61b922a28b158a38aeff75ee9b ""
@@ -155,15 +155,15 @@
   "main.bbl" 1649102739 1370 9ecbe212153a035e8d0a6677eeadc3ec "bibtex main"
   "main.gls" 1648832715 1705 70f1c0e15cd5c91467d75305346672b8 ""
   "main.out" 1649102739 1262 e4021b717c364ed25de897041ab64b0f "pdflatex"
-  "main.tex" 1648831733 894 2957802b9f7338354a3f38175f227de3 ""
+  "main.tex" 1649102885 894 2957802b9f7338354a3f38175f227de3 ""
   "main.toc" 1649102739 1903 4cfe5623098af4b5558de42dc1c9dfa5 "pdflatex"
   (generated)
+  "/home/lucas/Documents/project/ingenios_it/rapport-1A/main.log"
   "/home/lucas/Documents/project/ingenios_it/rapport-1A/main.pdf"
   "main.toc"
-  "main.aux"
-  "main.ist"
-  "main.pdf"
-  "main.log"
   "main.out"
+  "main.log"
+  "main.pdf"
   "main.glo"
-  "/home/lucas/Documents/project/ingenios_it/rapport-1A/main.log"
+  "main.ist"
+  "main.aux"
